@@ -1,0 +1,24 @@
+#bodovi{
+    display: inline-block;
+}
+div{
+    margin-top: 0;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: monospace;
+    text-align: center;
+}
+canvas{
+    display: block;
+    margin:0 auto;
+    border: 20px black solid;
+    padding: -200px;
+}
+
+
+body {
+    background-image: url(slike/pozadina.jpg);
+    padding: 5px;
+    background-size: contain;
+    background-repeat: repeat;
+}
